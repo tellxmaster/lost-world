@@ -22,9 +22,14 @@ Inspirado en la libertad creativa de "Minecraft" y el sentido de exploración y 
 "Lost World: The Awakening" toma elementos de éxito de juegos como "Minecraft" y "Terraria", y los lleva un paso más allá, con un enfoque en la historia y la aventura. Estos juegos han demostrado que la creatividad y la libertad del jugador pueden ser el núcleo de una experiencia de juego inolvidable.
 - **Minecraft (2009)**
 Es un videojuego de construcción de tipo "mundo abierto" o sandbox creado originalmente por el sueco Markus Persson, también conocido como "Notch" [1]. Fue desarrollado en el año 2009 y lanzado como un prototipo llamado "Cave Game" [2]. El juego se hizo popular rápidamente y se convirtió en un éxito mundial. Minecraft permite a los jugadores construir y explorar mundos virtuales, y ha sido elogiado por su creatividad y libertad de juego. Markus Persson vendió Minecraft a Microsoft en 2014, pero el juego sigue siendo popular y ha sido adaptado a múltiples plataformas [3].
+![Minecraft](https://www.spieltimes.com/wp-content/uploads/2022/01/Minecraft-Exit-Code-0.jpg?ezimgfmt=ng:webp/ngcb1)
+> Figura 1: Portada minecraft 1.12 Fuente: [Spieltimes](https://www.spieltimes.com/original/guides/minecraft-exit-code-0-how-to-fix/#.ZFvJqF7MLIU)
 
 - **Terraria (2011)**
 Terraria es un juego de supervivencia y mundo abierto desarrollado por Re-Logic a principios de enero de 2011. Terraria tiene una historia definida que conecta a los diferentes personajes y eventos del juego. En Terraria, los jugadores pueden explorar y construir en un mundo generado aleatoriamente, luchar contra enemigos y jefes, y recolectar recursos para crear objetos y herramientas [4]. El juego ha sido elogiado por su jugabilidad y su capacidad para mantener a los jugadores enganchados durante horas [5].
+![Minecraft](https://forums.terraria.org/index.php?attachments/spawn-jpg.268854/)
+>Figura 2: Terraria: Journey's End Official Golf Map Starter Kit Fuente:
+[Terraria Forum](https://forums.terraria.org/index.php?threads/terraria-journeys-end-official-golf-map-starter-kit.87208/)
 
 ### **Insumos**:
 El juego está siendo desarrollado en Unity 2023.1, y se están utilizando otras herramientas de software como Adobe Photoshop para la creación de arte y diseño, y FMOD para el diseño de sonido.
