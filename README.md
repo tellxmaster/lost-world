@@ -8,7 +8,7 @@ Supervivencia/Aventura en un Sandbox de mundo abierto
 ### **Plataforma:**
 Unity
 
-### **Público objetivo: **
+### **Público objetivo:**
 Jugadores de 12 a 100 años, amantes de la aventura, la exploración y los misterios sin resolver. 
 
 ### **Objetivo del Juego:**
@@ -35,7 +35,7 @@ El diseño del personaje y la estética del juego tienen una inspiración pixel 
 ### **Conclusión**:
 "Lost World: The Awakening" es una propuesta única en el género de los juegos sandbox de supervivencia. Con una combinación de elementos de juegos exitosos, un enfoque en la narrativa y la creatividad del jugador, y un diseño de arte nostálgico y atractivo, el juego promete una experiencia inolvidable para los jugadores de todas las edades.
 
-Referencias
+### **Referencias**
 -  [1] Minecraft. (2023). En Wikipedia, la enciclopedia libre. https://es.wikipedia.org/w/index.php?title=Minecraft&oldid=150983915
 - [2] Historia de Minecraft. (s. f.). Apex Hosting. Recuperado 10 de mayo de 2023, de https://apexminecrafthosting.com/es/la-guia-completa-de-minecraft-para-padres/historia-de-minecraft/
 - [3]Minecraft, un caso de éxito. (s. f.). Recuperado 10 de mayo de 2023, de https://codigofacilito.com/articulos/minecraft-un-caso-de-exitoso
